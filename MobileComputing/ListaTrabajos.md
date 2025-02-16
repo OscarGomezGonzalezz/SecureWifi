@@ -28,6 +28,7 @@ Son 4 trabajos:
 
 
 ### Aplicación movil final
+*Nos tiene que aprovar ella la idea, aunque no creo que ponga pegas, lo suele hacer cuando es o muy facil o muy dificil*
 
 **Principio curso**
 - Presentación inicial (principio del curso 1º) 
