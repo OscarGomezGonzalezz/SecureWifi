@@ -40,6 +40,15 @@
 	<array>
 		<string>arm64</string>
 	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We need your location to scan Wi-Fi networks nearby.</string>
+
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>We need your location to scan Wi-Fi networks nearby, even when the app is in the background.</string>
+
+	<key>NSLocationUsageDescription</key>
+	<string>We need your location to scan Wi-Fi networks nearby.</string>
+
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
