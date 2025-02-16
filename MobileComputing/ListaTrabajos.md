@@ -10,7 +10,7 @@ Son 4 trabajos:
 - Proyecto android sencillo
 - Proyecto react-native sencillo
 
-### Cosas a entregar
+## Cosas a entregar
 
 
 
@@ -27,7 +27,7 @@ Son 4 trabajos:
 - Presentación para hacerla en clase (4º)
 
 
-#### Aplicación movil final
+### Aplicación movil final
 
 **Principio curso**
 - Presentación inicial (principio del curso 1º) 
