@@ -20,11 +20,11 @@ Son 4 trabajos:
 
 **Proyecto react-native sencillo**
 - Código
-- Prensentación (Esto no es algo que se entrege es una defensa del código 3º)
+- Prensentación (Esto no es algo que se entrege es una defensa del código 4º)
 
 **Seminar**
 - Documento con el seminar
-- Presentación para hacerla en clase (4º)
+- Presentación para hacerla en clase (3º)
 
 
 ### Aplicación movil final
